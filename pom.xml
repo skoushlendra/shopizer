@@ -13,6 +13,7 @@
 	<version>3.0.0-SNAPSHOT</version>
 	<name>shopizer</name>
 	<description>Shopizer</description>
+	<packaging>pom</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
